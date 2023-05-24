@@ -2,13 +2,13 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
-My ![Visitor Count](https://profile-counter.glitch.me/Sena0777/count.svg) visitor
+My ![Visitor Count](https://profile-counter.glitch.me/alex5leo7/count.svg) visitor
 
 
 # I'm Ye Kai <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 - 🔭 I’m currently studying in [**GDUT**](https://www.gdut.edu.cn)
-- 🌱 I’m currently learning **Hive**
+- 🌱 I’m currently learning **Go**
 - 👯 Currently working in **GuangZhou, China**
 - 🤔 I love **Reading, photography**
 - 📫 How to reach me: **1917335703@qq.com**
@@ -16,7 +16,7 @@ My ![Visitor Count](https://profile-counter.glitch.me/Sena0777/count.svg) visito
 <!-- - 😄 You may like [My Website](https://www.christmas.wang/) -->
 <!-- 
 # About My Github
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sena0777&show_icons=true&theme=tokyonight) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex5leo7&show_icons=true&theme=tokyonight) -->
 
 # My Skill Set  
 <table><tr><td valign="top" width="50%">
