@@ -11,7 +11,7 @@ My ![Visitor Count](https://profile-counter.glitch.me/alex5leo7/count.svg) visit
 - 🌱 I’m currently learning **Go**
 - 👯 Currently working in **GuangZhou, China**
 - 🤔 I love **Reading, photography**
-- 📫 How to reach me: **1917335703@qq.com**
+- 📫 How to reach me: **alex5leo7@outlook.com**
 - ⚡ Fun fact: **HOK, Movie**
 <!-- - 😄 You may like [My Website](https://www.christmas.wang/) -->
 <!-- 
