@@ -1,21 +1,9 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+👋 Hi there, I'm Kai Ye, a junior student from Guangdong University of Technology (GDUT). 🎓
 
-# I'm Ye Kai <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+💻 I'm passionate about backend development and currently honing my skills in this area. I enjoy building robust and scalable web applications using modern technologies.
 
-- 🔭 I’m currently studying in [**GDUT**](https://www.gdut.edu.cn)
-- 🌱 I’m currently learning **Go**
-- 👯 Currently working in **GuangZhou, China**
-- 🤔 I love **Reading, photography**
-- 📫 How to reach me: **alex5leo7@outlook.com**
-- ⚡ Fun fact: **HOK, Movie**
-<!-- - 😄 You may like [My Website](https://www.christmas.wang/) -->
-<!-- 
-# About My Github
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex5leo7&show_icons=true&theme=tokyonight) -->
+🌟 Here are some highlights of my skill set:
 
-# My Skill Set  
 <table><tr><td valign="top" width="50%">
 
 ### Backend  
@@ -31,10 +19,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />  
 </div>
-
 </td><td valign="top" width="33%">
-
-
 
 ### DevOps  
 <div align="center">  
@@ -46,3 +31,13 @@
 </td></tr></table>  
 
 <br/>  
+
+🔭 I'm actively seeking internship opportunities to further enhance my knowledge and gain hands-on experience in real-world projects. I'm eager to contribute my skills and learn from experienced professionals.
+
+🌱 Besides my academic pursuits, I love exploring new technologies and staying updated with the latest trends in the tech industry. I'm a strong believer in continuous learning and enjoy challenging myself to expand my skill set.
+
+💬 If you're interested in collaborating on a project or have any internship opportunities, feel free to reach out to me. I'm always open to new connections and exciting opportunities.
+
+📫 You can contact me on Email: [alex5leo7@foxmail.com]
+
+✨ Thank you for visiting my GitHub profile! I look forward to connecting with you. 
