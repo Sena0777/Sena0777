@@ -38,6 +38,4 @@
 
 💬 If you're interested in collaborating on a project or have any internship opportunities, feel free to reach out to me. I'm always open to new connections and exciting opportunities.
 
-📫 You can contact me on Email: [alex5leo7@foxmail.com]
-
 ✨ Thank you for visiting my GitHub profile! I look forward to connecting with you. 
